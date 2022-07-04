@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     <p>learn react</p>
+     <p>I am running on elastic bean stalk</p>
     </div>
   );
 }
